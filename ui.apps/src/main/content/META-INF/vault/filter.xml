@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/shini/clientlibs"/>
+    <filter root="/apps/shini/components"/>
+    <filter root="/apps/shini/i18n"/>
+</workspaceFilter>
